@@ -1,1 +1,1 @@
-# page_test_selenium
+Тесты selenium_python
